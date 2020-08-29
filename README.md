@@ -6,7 +6,7 @@
 
 </head>
 <bidy>
-<h1><marquee>Welcome to my website.</marquee></h1>
+<h1><marquee behabior="slide">Welcome to my website.</marquee></h1>
 <h1>Billal Hossain</h1>
 <img src="../Image/FB_IMG_15753848350957209.jpg"/><br /><br />
 <a target="_blank"href="https:www.facebook.com">Facebook</a><br /><br />
